@@ -1,3 +1,3 @@
 # mern-estate
 
-The App Folders is in Master Branch
+The Code Folders is in Master Branch
